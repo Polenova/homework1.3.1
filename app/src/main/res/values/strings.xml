@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Комплексная система мониторинга здоровья</string>
+    <string name="text_name">Имя</string>
+    <string name="text_fname">Отчество</string>
+    <string name="text_surname">Фамилия</string>
+    <string name="text_age">Возраст</string>
+    <string name="button_press">Давление</string>
+    <string name="text_press">Индивидуальные показатели здоровья</string>
+    <string name="text_hpress">Верхнее давление</string>
+    <string name="text_lpress">Нижние давление</string>
+    <string name="text_pulse">Пульс</string>
+    <string name="text_date">Дата</string>
+    <string name="text_tahi">Тахикардия</string>
+    <string name="text_weight">Вес</string>
+    <string name="text_steps">Количество шагов</string>
+    <string name="button_save">Сохранить</string>
+    <string name="text_health">Жизненные показатели здоровья</string>
+    <string name="button_health">Здоровье</string>
+    <string name="button_next">Далее</string>
+    <string name="button_back">Назад</string>
+    <string name="exception">не верный формат</string>
+</resources>
